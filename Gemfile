@@ -38,3 +38,5 @@ end
 # Uncomment the following line if you're running Rails
 # on a native Windows system:
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem "graphql", "~> 2.0"
+gem 'graphiql-rails', group: :development
