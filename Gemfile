@@ -10,6 +10,8 @@ gem 'webpacker',  '5.4.0'
 gem 'turbolinks', '5.2.1'
 gem 'pg', '1.2.3'
 gem 'jbuilder',   '2.10.0'
+gem "devise", "~> 4.1"
+gem 'bcrypt', '~> 3.1.13'
 gem 'bootsnap',   '1.7.2', require: false
 
 group :development, :test do
